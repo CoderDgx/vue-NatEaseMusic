@@ -23,7 +23,7 @@
     "@vue/cli-plugin-router": "^4.2.0",
     "@vue/cli-plugin-vuex": "^4.2.0",
     "@vue/cli-service": "^4.2.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "fastclick": "^1.0.6",
     "stylus": "^0.54.7",
